@@ -1,0 +1,11 @@
+[project]
+name = "data-analysis-with-openai-assistants"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gradio>=5.41.0",
+    "openai>=1.99.1",
+]
